@@ -20,3 +20,14 @@ H:\GitHub\Caleb\Rank-Hangman-Game\Hangman-Game\Hangman-Game\obj\Debug\Hangman-Ga
 H:\GitHub\Caleb\Rank-Hangman-Game\Hangman-Game\Hangman-Game\obj\Debug\Hangman_Game.Form1.resources
 H:\GitHub\Caleb\Rank-Hangman-Game\Hangman-Game\Hangman-Game\obj\Debug\Hangman_Game.Resources.resources
 H:\GitHub\Caleb\Rank-Hangman-Game\Hangman-Game\Hangman-Game\obj\Debug\Hangman-Game.vbproj.GenerateResource.Cache
+C:\Users\Caleb\Documents\GitHub\Rank-Hangman-Game\Hangman-Game\Hangman-Game\bin\Debug\Hangman-Game.exe.config
+C:\Users\Caleb\Documents\GitHub\Rank-Hangman-Game\Hangman-Game\Hangman-Game\obj\Debug\Hangman-Game.exe
+C:\Users\Caleb\Documents\GitHub\Rank-Hangman-Game\Hangman-Game\Hangman-Game\obj\Debug\Hangman-Game.xml
+C:\Users\Caleb\Documents\GitHub\Rank-Hangman-Game\Hangman-Game\Hangman-Game\obj\Debug\Hangman-Game.pdb
+C:\Users\Caleb\Documents\GitHub\Rank-Hangman-Game\Hangman-Game\Hangman-Game\bin\Debug\Hangman-Game.exe
+C:\Users\Caleb\Documents\GitHub\Rank-Hangman-Game\Hangman-Game\Hangman-Game\bin\Debug\Hangman-Game.pdb
+C:\Users\Caleb\Documents\GitHub\Rank-Hangman-Game\Hangman-Game\Hangman-Game\bin\Debug\Hangman-Game.xml
+C:\Users\Caleb\Documents\GitHub\Rank-Hangman-Game\Hangman-Game\Hangman-Game\obj\Debug\Hangman-Game.vbprojResolveAssemblyReference.cache
+C:\Users\Caleb\Documents\GitHub\Rank-Hangman-Game\Hangman-Game\Hangman-Game\obj\Debug\Hangman_Game.Form1.resources
+C:\Users\Caleb\Documents\GitHub\Rank-Hangman-Game\Hangman-Game\Hangman-Game\obj\Debug\Hangman_Game.Resources.resources
+C:\Users\Caleb\Documents\GitHub\Rank-Hangman-Game\Hangman-Game\Hangman-Game\obj\Debug\Hangman-Game.vbproj.GenerateResource.Cache
