@@ -13,11 +13,24 @@
         Dim strLetter As String
         Dim strFinalGuess As String
 
+        '~~~~~~~~~~~~~START MOREHOUSE COMMENT~~~~~~~~~~~~~~~~~~~~~
+        'Given the structure of your code (which is very good, I would suggest that you add a boolean variable, 
+        'something we have not hit on much but is a powerful concept in programming. Declare it just above the do loop start 
+        'Id call it something descriptive like blnLetterinWord and set it initially to FALSE
+        'example: 
+        Dim blnLetterinWord As Boolean = False
+        'What this does is address the fact that there will be many letters in the word that the guessed letter does not equal 
+        'even if it is in fact one of the letters of the word. Then, in your code where you handle a correct letter guess, you add a line setting the boolean
+        'to TRUE. THat way, the boolean will only be affected by the intermittent TRUE instance.
+        'Down at the bottom of the loop, just before its end you will then make an IF statement handling if the boolean is false and saying "you are wqrong"
+        'then reset the boolean to FALSE
+        '~~~~~~~~~~~~~STOP MOREHOUSE COMMENT~~~~~~~~~~~~~~~~~~~~~
         Do
+
             strLetter = InputBox("Guess A Letter").ToLower
 
             For intC As Integer = 0 To strSecret.Length - 1
-                
+
                 If strLetter = strSecret.Chars(intC) Then
                     strGuess = strGuess.Remove(intC, 1)
                     strGuess = strGuess.Insert(intC, strLetter)
